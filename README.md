@@ -222,10 +222,3 @@ Yatharth Rathi
 B.Tech CSE --- AI & ML
 IILM University, Greater Noida
 Admission / Roll Number: 2410030143
-
-Disclaimer
-
-This repository documents a Forage virtual job simulation completed
-for academic and professional learning purposes. It does not represent
-employment at the simulated organization or deployment of a live
-production solution.
